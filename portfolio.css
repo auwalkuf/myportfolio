@@ -21,8 +21,7 @@ h1{
 }
 
 #fp{
-    width:245px;
-    height:320px;
+    text-align:left;
     background-color:grey;
     font-family:monospace;
     
